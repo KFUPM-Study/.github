@@ -1,5 +1,5 @@
 ## KFUPM Study
-
+Aiming to be the number one platform for KFUPM students to advance their studies 🚀
 <!--
 
 **Here are some ideas to get you started:**
